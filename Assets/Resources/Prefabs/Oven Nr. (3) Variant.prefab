@@ -1,0 +1,252 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &1607263015842688980
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 496298728874760651, guid: 8e6c6f324980944ab95e3960e0bcbd80, type: 3}
+      propertyPath: m_SortingOrder
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 530563965104540960, guid: 8e6c6f324980944ab95e3960e0bcbd80, type: 3}
+      propertyPath: m_TagString
+      value: Decoration
+      objectReference: {fileID: 0}
+    - target: {fileID: 771113120092696975, guid: 8e6c6f324980944ab95e3960e0bcbd80, type: 3}
+      propertyPath: m_SortingOrder
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 1381863398340323372, guid: 8e6c6f324980944ab95e3960e0bcbd80, type: 3}
+      propertyPath: m_TagString
+      value: Cake
+      objectReference: {fileID: 0}
+    - target: {fileID: 1960012616711588972, guid: 8e6c6f324980944ab95e3960e0bcbd80, type: 3}
+      propertyPath: m_Name
+      value: Oven Nr. (3) Variant
+      objectReference: {fileID: 0}
+    - target: {fileID: 1960012616711588972, guid: 8e6c6f324980944ab95e3960e0bcbd80, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1960012616711588972, guid: 8e6c6f324980944ab95e3960e0bcbd80, type: 3}
+      propertyPath: m_TagString
+      value: Oven
+      objectReference: {fileID: 0}
+    - target: {fileID: 2780816102415525273, guid: 8e6c6f324980944ab95e3960e0bcbd80, type: 3}
+      propertyPath: m_SortingOrder
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 2861169604631950097, guid: 8e6c6f324980944ab95e3960e0bcbd80, type: 3}
+      propertyPath: m_TagString
+      value: Decoration
+      objectReference: {fileID: 0}
+    - target: {fileID: 3140679477120345730, guid: 8e6c6f324980944ab95e3960e0bcbd80, type: 3}
+      propertyPath: m_SortingOrder
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 3257475675475364536, guid: 8e6c6f324980944ab95e3960e0bcbd80, type: 3}
+      propertyPath: levelText
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 3257475675475364536, guid: 8e6c6f324980944ab95e3960e0bcbd80, type: 3}
+      propertyPath: levelProgressSlider
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 3458511105614712193, guid: 8e6c6f324980944ab95e3960e0bcbd80, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3563954799385916100, guid: 8e6c6f324980944ab95e3960e0bcbd80, type: 3}
+      propertyPath: m_TagString
+      value: Cake
+      objectReference: {fileID: 0}
+    - target: {fileID: 3952838079630643837, guid: 8e6c6f324980944ab95e3960e0bcbd80, type: 3}
+      propertyPath: m_TagString
+      value: Cake
+      objectReference: {fileID: 0}
+    - target: {fileID: 4274640224027391149, guid: 8e6c6f324980944ab95e3960e0bcbd80, type: 3}
+      propertyPath: m_TagString
+      value: Decoration
+      objectReference: {fileID: 0}
+    - target: {fileID: 4572335139928162287, guid: 8e6c6f324980944ab95e3960e0bcbd80, type: 3}
+      propertyPath: m_TagString
+      value: Decoration
+      objectReference: {fileID: 0}
+    - target: {fileID: 6213456308328887587, guid: 8e6c6f324980944ab95e3960e0bcbd80, type: 3}
+      propertyPath: m_TagString
+      value: Decoration
+      objectReference: {fileID: 0}
+    - target: {fileID: 6351279693755048723, guid: 8e6c6f324980944ab95e3960e0bcbd80, type: 3}
+      propertyPath: m_TagString
+      value: Cake
+      objectReference: {fileID: 0}
+    - target: {fileID: 7312899790010225744, guid: 8e6c6f324980944ab95e3960e0bcbd80, type: 3}
+      propertyPath: m_SortingOrder
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 7413681113871661398, guid: 8e6c6f324980944ab95e3960e0bcbd80, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 268.4
+      objectReference: {fileID: 0}
+    - target: {fileID: 7413681113871661398, guid: 8e6c6f324980944ab95e3960e0bcbd80, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 129.6
+      objectReference: {fileID: 0}
+    - target: {fileID: 7526915725838965681, guid: 8e6c6f324980944ab95e3960e0bcbd80, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 2.43
+      objectReference: {fileID: 0}
+    - target: {fileID: 7526915725838965681, guid: 8e6c6f324980944ab95e3960e0bcbd80, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 2.6
+      objectReference: {fileID: 0}
+    - target: {fileID: 7526915725838965681, guid: 8e6c6f324980944ab95e3960e0bcbd80, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.052158095
+      objectReference: {fileID: 0}
+    - target: {fileID: 7526915725838965681, guid: 8e6c6f324980944ab95e3960e0bcbd80, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7526915725838965681, guid: 8e6c6f324980944ab95e3960e0bcbd80, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7526915725838965681, guid: 8e6c6f324980944ab95e3960e0bcbd80, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7526915725838965681, guid: 8e6c6f324980944ab95e3960e0bcbd80, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7526915725838965681, guid: 8e6c6f324980944ab95e3960e0bcbd80, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7526915725838965681, guid: 8e6c6f324980944ab95e3960e0bcbd80, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7526915725838965681, guid: 8e6c6f324980944ab95e3960e0bcbd80, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7860804466011232607, guid: 8e6c6f324980944ab95e3960e0bcbd80, type: 3}
+      propertyPath: m_TagString
+      value: Cake
+      objectReference: {fileID: 0}
+    - target: {fileID: 8425741454153172804, guid: 8e6c6f324980944ab95e3960e0bcbd80, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 268.4
+      objectReference: {fileID: 0}
+    - target: {fileID: 8425741454153172804, guid: 8e6c6f324980944ab95e3960e0bcbd80, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 129.6
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 1960012616711588972, guid: 8e6c6f324980944ab95e3960e0bcbd80, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 2846772236849435639}
+    - targetCorrespondingSourceObject: {fileID: 1960012616711588972, guid: 8e6c6f324980944ab95e3960e0bcbd80, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 2671050336072535357}
+  m_SourcePrefab: {fileID: 100100000, guid: 8e6c6f324980944ab95e3960e0bcbd80, type: 3}
+--- !u!1 &972065196527707064 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1960012616711588972, guid: 8e6c6f324980944ab95e3960e0bcbd80, type: 3}
+  m_PrefabInstance: {fileID: 1607263015842688980}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &2846772236849435639
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 972065196527707064}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0b148fe25e99eb48b9724523833bab1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Delegates:
+  - eventID: 4
+    callback:
+      m_PersistentCalls:
+        m_Calls:
+        - m_Target: {fileID: 4285955614053655916}
+          m_TargetAssemblyTypeName: OvenManager, Assembly-CSharp
+          m_MethodName: OpenCakeSelectionPanel
+          m_Mode: 1
+          m_Arguments:
+            m_ObjectArgument: {fileID: 0}
+            m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+            m_IntArgument: 0
+            m_FloatArgument: 0
+            m_StringArgument: 
+            m_BoolArgument: 0
+          m_CallState: 2
+--- !u!61 &2671050336072535357
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 972065196527707064}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_ForceSendLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ForceReceiveLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ContactCaptureLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_CallbackLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_CompositeOperation: 0
+  m_CompositeOrder: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0, y: 0}
+    oldSize: {x: 0, y: 0}
+    newSize: {x: 0, y: 0}
+    adaptiveTilingThreshold: 0
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  m_Size: {x: 1, y: 1}
+  m_EdgeRadius: 0
+--- !u!114 &4285955614053655916 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 3257475675475364536, guid: 8e6c6f324980944ab95e3960e0bcbd80, type: 3}
+  m_PrefabInstance: {fileID: 1607263015842688980}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 972065196527707064}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 90de0024d7be34e02aa219f143b74efb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
